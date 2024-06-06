@@ -51,8 +51,6 @@ form textarea{
     margin-bottom: 10px;
 }
 
-label
-
 iframe{
     width: 100%;
 }
@@ -73,6 +71,12 @@ h2{
 #produto .flex-conteiner, #contato .flex-conteiner{
     margin-top: 43px;
 }
+
+#Roda-pé .flex-conteiner{
+    margin-top: 43px;
+
+}
+
 
 /* Estilos recorrentes Class */
 .fundo-verde{
