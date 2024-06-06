@@ -38,12 +38,40 @@ nav a:hover{
     color: #6dd432;
 }
 
+form{
+    width: 380px;
+}
+
+form input,
+form textarea{
+    width: 100%;
+    border: 1px solid #6dd432;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+label
+
+iframe{
+    width: 100%;
+}
+
+h2{
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
 /* Estilos Especificos IDS */
 
 #itemContato{
     background-image: none;
     padding-right: 0;
     margin-right: 0;
+}
+
+#produto .flex-conteiner, #contato .flex-conteiner{
+    margin-top: 43px;
 }
 
 /* Estilos recorrentes Class */
